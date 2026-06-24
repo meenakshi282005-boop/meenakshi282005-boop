@@ -1,9 +1,14 @@
-## Hi there 👋
+### Hi, I'm Meenakshi 👋
 
-<!--
-**meenakshi282005-boop/meenakshi282005-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst from Delhi, India  
+🚀 Learning Excel, SQL & Power BI by building real projects  
+📈 Latest: Interactive Sales Dashboard with PivotTables & Slicers
 
-Here are some ideas to get you started:
+**Currently learning:** SQL, Python for Data Analysis  
+**Tools:** Excel, PivotTables, Charts, KPI Dashboards  
+
+**Let's connect!**  
+[LinkedIn](www.linkedin.com/in/meenakshi-bhatt-7b4b8537b)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
